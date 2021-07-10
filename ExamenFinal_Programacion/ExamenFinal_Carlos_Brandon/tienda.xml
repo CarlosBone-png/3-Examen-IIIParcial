@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Tienda>
+
+    <Banner>
+        <img ruta="img/pics/XboxOne_PS4_WiiU.jpg"/>
+
+        <Botones>
+            <Boton>
+                Inicio
+            </Boton>
+            <Boton>
+                Historia
+            </Boton>
+            <Boton>
+                Actualidad
+            </Boton>
+            <Boton>
+                Accesibilidad
+            </Boton>
+        </Botones>
+    </Banner>
+
+    <Catalogo>  
+         <Consola>
+            <img ruta="img/pics/Xbox_SerieX.jpg"/>
+             <Nombre> Xbox </Nombre>
+             <Videojuegos>
+                <img ruta="img/pics/Gears5.jpg"/> <Juego1>Guears 5</Juego1>
+                <img ruta="img/pics/Halo_Infinity.jpg"/> <Juego2>Halo Infinity</Juego2>
+                <img ruta="img/pics/Minecraft.jpg"/> <Juego3>Minecraft</Juego3>
+                <Juego4>Forza Horizon 4</Juego4>
+                <Juego5>Sea of Thieves</Juego5>
+             </Videojuegos> 
+             <Accesorios>
+                 <Item1>Mando Xbox</Item1> <img ruta="img/pics/MandoXbox.jpeg"/>
+                 <Item2>Funda para Mando</Item2> <img ruta="img/pics/Funda_Xbox.jpeg"/>
+                 <Item3>Kit Carga</Item3> <img ruta="img/pics/Kit_Carga_Xbox.jpeg"/>
+             </Accesorios>
+              
+         </Consola>
+         
+         <Consola>
+            <img ruta="img/pics/PS5_C.jpeg"/>
+             <Nombre> Play Station </Nombre>
+             <Videojuegos>
+                <img ruta="img/pics/Spider-man_MM.jpg"/> <Juego1>Spider-man Miles Morales</Juego1> 
+                <img ruta="img/pics/God_of_war.jpg"/> <Juego2>God of War</Juego2> 
+                <img ruta="img/pics/G_T_7.jpg"/> <Juego3>Gran Turismo 7</Juego3> 
+                <Juego4>Final Fantasy XVI</Juego4>
+                <Juego5>Horizon 2</Juego5>
+             </Videojuegos> 
+             <Accesorios>
+                <Item1>Mandon PS</Item1> <img ruta="img/pics/MandoPS5.jpeg"/>
+                <Item2>Cámara HD PlayStation 5</Item2> <img ruta="img/pics/CamaraPS5.jpeg"/>
+                <Item3>Auriculares inalámbricos PULSE 3D</Item3> <img ruta="img/pics/HeadsetsPS5.jpeg"/>
+            </Accesorios>
+         </Consola>
+
+         <Consola>
+            <img ruta="img/pics/switch-family.jpg"/>
+             <Nombre> NIntendo </Nombre>
+             <Videojuegos>
+                <img ruta="img/pics/Mario_Kart_8_D.jpg"/> <Juego1>MARIO KART 8 DELUXE</Juego1> 
+                 <img ruta="img/pics/SSBU.jpg"/> <Juego2>SUPER SMASH BROS ULTIMATE</Juego2> 
+                 <img ruta="img/pics/TLOZ_BOTW.jpg"/> <Juego3>THE LEGEND OF ZELDA: BREATH OF THE WILD</Juego3> 
+                 <Juego4>SUPER MARIO ODYSSEY</Juego4>
+                 <Juego5>SPLATOON 2</Juego5>
+             </Videojuegos>
+             <Accesorios>
+                <Item1>Consola Switch</Item1> <img ruta="img/pics/onsola_N_Switch.jpg"/>
+                <Item2>CARCASAS Y CRUCETAS INTERCAMBIABLES</Item2> <img ruta="img/pics/Carcasas_NS.jpg"/>
+                <Item3>EMISOR BLUETOOTH</Item3> <img ruta="img/pics/Emisor_Bluetooth.jpg"/>
+            </Accesorios>
+
+         </Consola>
+             
+         
+
+    </Catalogo>
+
+    <PiedePagina>
+        <img><i class="fab fa-facebook-square"></i></img>
+        <img><i class="fab fa-twitter-square"></i></img>
+        <img><i class="fab fa-youtube"></i></img>
+        <img><i class="fab fa-instagram"></i></img>
+    </PiedePagina>
+
+</Tienda>
